@@ -13,7 +13,7 @@ repositories {
 }
 
 omegat {
-    version = "5.6.0-m3"
+    version = "5.6.0"
     pluginClass = "tokyo.northside.omegat.theme.Themes"
 }
 
