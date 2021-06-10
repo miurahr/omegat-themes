@@ -14,7 +14,7 @@ repositories {
 
 omegat {
     version = "5.6.0"
-    pluginClass = "tokyo.northside.omegat.theme.Themes"
+    pluginClass = "tokyo.northside.omegat.theme.IntellijThemes"
 }
 
 dependencies {
